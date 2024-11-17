@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramirez124&layout=compact)
-
 <!--START_SECTION:waka-->
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&USERNAME&layout=compact&&theme=default&link="https://www.github.com/sramirez124/") 
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&sramirez124&layout=compact&&theme=default&link="https://www.github.com/sramirez124/") 
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
