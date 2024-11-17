@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <div align="center">
   <h1> About Me</h1>
-  <p> Hello, my name is Steven Ramirez. I am a software developer with the MERN stack, and a Game Designer. I attended a 15 week bootcamp with Per Scholas to learn HTML, CSS, JS and of course the MERN stack (MongoDB, Express, React and Node). I attended Columbia College of Chicago to obtain my Game Design degree and graduated in 2022</p>
+  <p> Hello, my name is Steven Ramirez. I am a fullstack developer with MERN, and a Game Designer. I attended a 15 week bootcamp with Per Scholas to learn HTML, CSS, JS and of course the MERN stack (MongoDB, Express, React and Node). I attended Columbia College of Chicago to obtain my Game Design degree and graduated in 2022</p>
 </div>
 <hr>
 
