@@ -3,16 +3,21 @@
   <h1> About Me</h1>
   <p> Hello, my name is Steven Ramirez. I am a fullstack developer with MERN, and a Game Designer. I attended a 15 week bootcamp with Per Scholas to learn HTML, CSS, JS and of course the MERN stack (MongoDB, Express, React and Node). I attended Columbia College of Chicago to obtain my Game Design degree and graduated in 2022</p>
   <h2> Current Projects</h2>
+  <ul>
+  <li><p>Video Game: </p> <a href="https://github.com/sramirez124/GetALife">Get a Life</a></li>
+  <li><p>Website: </p> <a href="https://github.com/sramirez124/GetALife">Personal Portfolio</a></li>
+  <li><p>MERN Stack Capstone: </p> <a href="https://github.com/sramirez124/GetALife">Per Scholas Capstone</a></li>
+</ul> 
   <div>
-    <p>Video Game: </p> <a href="https://github.com/sramirez124/GetALife">Get a Life</a>
+    
   </div>
   
   <div>
-    <p>Website: </p> <a href="https://github.com/sramirez124/GetALife">Personal Portfolio</a>
+    
   </div>
   
   <div>
-    <p>MERN Stack Capstone: </p> <a href="https://github.com/sramirez124/GetALife">Per Scholas Capstone</a>
+    
   </div>
   
 </div>
