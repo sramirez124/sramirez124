@@ -4,6 +4,7 @@
 <hr>
 
 <div align="center">
+<h1>Github Stats</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sramirez124&theme=merko" />
 </a>
