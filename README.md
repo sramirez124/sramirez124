@@ -5,18 +5,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 1.9 MB Used in GitHub's Storage 
- > 
-> 🏆 238 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 33 Public Repositories 
- > 
-> 🔑 14 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -25,36 +13,7 @@
 🌃 Evening                95 commits          █████████░░░░░░░░░░░░░░░░   36.96 % 
 🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
-📅 **I'm Most Productive on Thursday** 
 
-```text
-Monday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Tuesday                  44 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Wednesday                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Thursday                 54 commits          █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Friday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Saturday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Sunday                   53 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -65,12 +24,6 @@ HTML                     6 repos             ████░░░░░░░�
 ShaderLab                5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/sramirez124/sramirez124/main/assets/bar_graph.png)
 
 
  Last Updated on 17/11/2024 18:35:07 UTC
