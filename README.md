@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <!--START_SECTION:waka-->
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?&sramirez124&layout=compact&&theme=default&link="https://www.github.com/sramirez124/") 
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
