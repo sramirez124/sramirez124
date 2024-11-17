@@ -6,7 +6,9 @@
 </a>
 
 <hr>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hacker&pause=1000&color=12F741&center=true&repeat=false&width=435&lines=Full+Stack+Developer+%7C+Game+Designer" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hacker&pause=1000&color=12F741&center=true&repeat=false&width=435&lines=Full+Stack+Developer+%7C+Game+Designer" alt="Typing SVG" /></a>
+</div>
 <!--
 **sramirez124/sramirez124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
