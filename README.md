@@ -2,7 +2,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sramirez124" />
 </a>
 <a href="https://github.com/sramirez124/top-language">
-  <img height=200 align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sramirez124&show_icons=true&theme=verko)" />
+  <img height=200 align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sramirez124&show_icons=true&theme=merko)" />
 </a>
 <!--
 **sramirez124/sramirez124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
