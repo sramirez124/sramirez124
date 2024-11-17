@@ -1,3 +1,7 @@
+<div alignt="center">
+  ![Header](./github-header-image.png)
+</div>
+
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hacker&pause=1000&color=12F741&center=true&repeat=false&width=435&lines=Full+Stack+Developer+%7C+Game+Designer" alt="Typing SVG" /></a>
 </div>
