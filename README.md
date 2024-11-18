@@ -5,7 +5,7 @@
   <h2> Current Projects</h2>
   <p>Video Game :video_game: : <a href="https://github.com/sramirez124/GetALife">Get a Life</a></p>
   <p>Website :page_facing_up: : <a href="https://github.com/sramirez124/GetALife">Personal Portfolio</a></p>
-  <p>MERN Stack Capstone :computer: : <a href="https://github.com/sramirez124/GetALife">Per Scholas Capstone</a></p>
+  <p>MERN Stack Capstone :computer: : <a href="https://github.com/sramirez124/CAP325.9-Capstone-Completion">Per Scholas Capstone</a></p>
 </div>
 <hr>
 
