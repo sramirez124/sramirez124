@@ -12,7 +12,7 @@
 <div align="center">
 <h1>Github Stats</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?sramirez124=ffflabs)](https://github.com/sramirez124/github-readme-stats)" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sramirez124&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sramirez124&layout=compact&langs_count=8&card_width=320&theme=merko" />
