@@ -4,7 +4,7 @@
   <p> Hello, my name is Steven Ramirez. I'm a full-stack developer specializing in the MERN stack and a dedicated game designer. I completed a 15-week bootcamp in web development and earned my Bachelor’s degree in Game Design from Columbia College Chicago. My passion for both game design and web development has allowed me to develop a unique blend of creative and technical expertise, which I hope is evident in my GitHub projects. While there’s more to add, I’m committed to continually expanding this portfolio as I learn new skills and create more apps and games. </p>
   <h2> Current Projects</h2>
   <p>Video Game :video_game: : <a href="https://github.com/sramirez124/GetALife">Get a Life</a></p>
-  <p>Website :page_facing_up: : <a href="https://github.com/sramirez124/GetALife">Personal Portfolio</a></p>
+  <p>Website :page_facing_up: : <a href="https://github.com/sramirez124/Portfolio">Personal Portfolio</a></p>
   <p>MERN Stack Capstone :computer: : <a href="https://github.com/sramirez124/CAP325.9-Capstone-Completion">Per Scholas Capstone</a></p>
 </div>
 <hr>
